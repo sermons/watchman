@@ -2,6 +2,9 @@
 # The Watchman
 ## Ezekiel 33:1-9 (5/5)
 
+>>>
++ ch2-3, 20
+
 ---
 <!-- .slide: data-background="white" -->
 # What if **others** won't change?
