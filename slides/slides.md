@@ -1,6 +1,6 @@
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="title" -->
 # The Watchman
-## Ezekiel 33:1-9 (5/5)
+## Ezekiel 33 (5/5)
 
 >>>
 + ch2-3, 20
