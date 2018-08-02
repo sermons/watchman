@@ -13,12 +13,12 @@
 
 ---
 
-| 1. **What** must I change? [(identity)](# "ref") | The Adopted *Princess* [(ch16)](# "ref") |
+| 1. What must I change? | <small>[ch16:](# "ref") *Princess* [(identity)](# "ref")</small> |
 | --- | --- |
-| 2. **Who** will help me? [(leadership)](# "ref") | The *Shepherds* [(ch34)](# "ref") |
-| 3. **How** do I change? <br>[(God's work)](# "ref") | The *Wanderers* [(ch36)](# "ref") |
-| 4. Am I beyond **hope**? [(new life)](# "ref") | The *Dry Bones* [(ch37)](# "ref") |
-| 5. What if **others** won't change? [(missions)](# "ref") | The *Watchman* [(ch33)](# "ref") |
+| 2. Who will help me? | <small>[ch34:](# "ref") *Shepherds* [(leadership)](# "ref")</small> |
+| 3. How do I change? | <small>[ch36:](# "ref") *Wanderers* [(God's work)](# "ref")</small> |
+| 4. Am I beyond hope? | <small>[ch37:](# "ref") *Dry Bones* [(new life)](# "ref")</small> |
+| 5. **If others won't change?** | <small>[ch33:](# "ref") *Watchman* [(missions)](# "ref")</small> |
 
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="outline" class="outline" -->
@@ -38,7 +38,11 @@
 # Q1
 
 ---
-# outline 2
+<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="outline" -->
+## The Watchman [(Ez33)](# "ref")
+1. Sound the Trumpet [(v1-9)](# "ref")
+2. **Turn, Turn!** [(v10-20)](# "ref")
+3. A Prophet Among Them [(v30-33)](# "ref")
 
 >>>
 2. heart of God
@@ -55,7 +59,11 @@
 # Q2
 
 ---
-# outline 3
+<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="outline" -->
+## The Watchman [(Ez33)](# "ref")
+1. Sound the Trumpet [(v1-9)](# "ref")
+2. Turn, Turn! [(v10-20)](# "ref")
+3. **A Prophet Among Them** [(v30-33)](# "ref")
 
 >>>
 3. prophet w/o honour
