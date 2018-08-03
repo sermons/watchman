@@ -48,10 +48,10 @@ his **blood** shall be upon his own head.
 
 ---
 But if the watchman **sees** the sword coming <br>
-and does **not** blow the trumpet,
-
+and does **not** blow the trumpet,<br>
 so that the people are **not warned**, <br>
-and the sword comes and takes any one of them,
+and the sword comes <br>
+and takes any one of them,
 
 that person is taken away in **his iniquity**, <br>
 but his **blood** I will require <br>
@@ -241,7 +241,7 @@ that a **prophet** has been among them.
 [Ezekiel 33:33 (ESV)](# "ref")
 
 ---
-## I Have Decided to Follow Jesus
+## I Have Decided <br> to Follow Jesus
 
 <div class="imgbox">
 <div>![map of Assam](https://sermons.seanho.com/img/fig/assam.png)
