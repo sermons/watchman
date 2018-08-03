@@ -1,4 +1,4 @@
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="title" -->
+<!-- .slide: <%= bg("unsplash-mWMu5XSDe4I-beach_tower.jpg") %> id="title" -->
 # The Watchman
 ## Ezekiel 33 (5/5)
 
@@ -12,6 +12,7 @@
 [###](#/outline "secret")
 
 ---
+<!-- .slide: <%= bg("unsplash-sp-p7uuT0tw-dark_forest.jpg") %> id="series" -->
 
 | 1. What must I change? | <small>[ch16:](# "ref") *Princess* [(identity)](# "ref")</small> |
 | --- | --- |
@@ -20,8 +21,10 @@
 | 4. Am I beyond hope? | <small>[ch37:](# "ref") *Dry Bones* [(new life)](# "ref")</small> |
 | 5. **If others won't change?** | <small>[ch33:](# "ref") *Watchman* [(missions)](# "ref")</small> |
 
+[Bad Pyrmont, Germany.  Sebastian Unrau](https://unsplash.com/photos/sp-p7uuT0tw "caption")
+
 ---
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="outline" class="outline" -->
+<!-- .slide: <%= bg("unsplash-mWMu5XSDe4I-beach_tower.jpg") %> id="outline" class="outline" -->
 ## The Watchman [(Ez33)](# "ref")
 1. Sound the **Trumpet** [(v1-9)](# "ref")
 2. **Turn**, Turn! [(v10-20)](# "ref")
@@ -80,7 +83,7 @@ you shall give them **warning** from me.
 + say the hard truths in love
 
 ---
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="outline" -->
+<!-- .slide: <%= bg("unsplash-mWMu5XSDe4I-beach_tower.jpg") %> class="outline" -->
 ## The Watchman [(Ez33)](# "ref")
 1. Sound the Trumpet [(v1-9)](# "ref")
 2. **Turn, Turn!** [(v10-20)](# "ref")
@@ -181,7 +184,7 @@ I will judge each of you according to his **ways**.
   + let us show grace to **others**
 
 ---
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="outline" -->
+<!-- .slide: <%= bg("unsplash-mWMu5XSDe4I-beach_tower.jpg") %> class="outline" -->
 ## The Watchman [(Ez33)](# "ref")
 1. Sound the Trumpet [(v1-9)](# "ref")
 2. Turn, Turn! [(v10-20)](# "ref")
@@ -269,5 +272,5 @@ that a **prophet** has been among them.
 + I have **decided** to follow Jesus
 
 ---
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="empty" -->
+<!-- .slide: <%= bg("unsplash-mWMu5XSDe4I-beach_tower.jpg") %> class="empty" -->
 
