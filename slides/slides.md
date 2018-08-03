@@ -68,9 +68,16 @@ you shall give them **warning** from me.
 
 [Ezekiel 33:7 (ESV)](# "ref")
 
+>>>
++ (Heb 10 spur)
+
 ---
 <!-- .slide: data-background="white" -->
-# Q1
+# What is our **responsibility** toward those who won't change?
+
+>>>
++ trust God's judgment
++ say the hard truths in love
 
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="outline" -->
@@ -80,21 +87,25 @@ you shall give them **warning** from me.
 3. A Prophet Among Them [(v30-33)](# "ref")
 
 >>>
-2. heart of God
-  + 10 rotting in sin
-  + 11a no pleasure in death of wicked
-  + 11b turn: action, change
-    + 15,20: judge according to ways
-    + cf NT grace
++ God's **heart**:
+  + desires to show **compassion**
++ **we** should, too
 
 ---
-Surely our **transgressions** <br>
+"Surely our **transgressions** <br>
 and our **sins** are upon us, <br>
 and we **rot away** because of them.
 
-**How** then can we live?’
+**How** then can we live?"
 
 [Ezekiel 33:10 (ESV)](# "ref")
+
+>>>
++ first, for **ourselves**, then others:
++ when we **despair** bc of sin
+  + trapped by bad **habits**
++ remember it's not the **first** time
+  + ever since **birth**:
 
 ---
 And when I passed by you <br>
@@ -105,6 +116,9 @@ I said to you in your blood, ‘Live!’
 
 [Ezekiel 16:6 (ESV)](# "ref")
 
+>>>
++ when we were **helpless**
+
 ---
 These **bones** are the whole house of Israel. <br>
 Behold, they say, <br>
@@ -112,6 +126,11 @@ Behold, they say, <br>
 we are indeed **cut off**.’
 
 [Ezekiel 37:11 (ESV)](# "ref")
+
+>>>
++ when we were **hopeless**
++ God gives us **new life**!
+  + never **gives up** on us:
 
 ---
 <!-- .slide: <%= bg("unsplash-u0vgcIOQG08-forest_road_fork.jpg") %> -->
@@ -122,6 +141,16 @@ but that the wicked **turn** from his way and **live**;
 for why will you **die**, O house of Israel?
 
 [Ezekiel 33:11 (ESV)](# "ref")
+
+>>>
++ not a blanket **affirmation**
+  + not an **endorsement** of sin
++ **invitation** to turn back
+  + change of **orientation**
+  + values, **goals**, pursue
++ If God so earnestly **desires**
+  + the wicked to **repent**
++ do **I**? (schaden-freude, joy in harm)
 
 ---
 If the **wicked** restores the pledge, <br>
@@ -136,9 +165,20 @@ I will judge each of you according to his **ways**.
 
 [Ezekiel 33:15,20 (ESV)](# "ref")
 
+>>>
++ repent not just **words** / promises
+  + **action** / habits
+  + empowered by **Holy Spirit**
+  + starting with a new **heart**
++ cf NT grace
+
 ---
 <!-- .slide: data-background="white" -->
-# Q2
+# Do I **want** to wicked to **repent**, or perish?
+
+>>>
++ God has shown **grace** to us
+  + let us show grace to **others**
 
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="outline" -->
@@ -148,12 +188,9 @@ I will judge each of you according to his **ways**.
 3. **A Prophet Among Them** [(v30-33)](# "ref")
 
 >>>
-3. prophet w/o honour
-  + 30 appear to listen
-    + Is58:1-4
-    + 32 sensual song, entertainment
-  + 31 lustful desires + gain
-  + 33 they will know
++ 30 appear to listen
++ 31 lustful desires + gain
++ 33 they will know
 
 ---
 As for **you**, son of man, <br>
@@ -204,8 +241,32 @@ that a **prophet** has been among them.
 [Ezekiel 33:33 (ESV)](# "ref")
 
 ---
+## I Have Decided to Follow Jesus
+
+<div class="imgbox">
+<div>![map of Assam](https://sermons.seanho.com/img/fig/assam.png)
+<br/><small>Assam region of India</small></div>
+<div>![Sadhu Sundar Singh](https://sermons.seanho.com/img/fig/sadhu_sundar_singh.jpg)
+<br/><small>[Sadhu Sundar Singh](https://en.wikipedia.org/wiki/Sadhu_Sundar_Singh)</small></div>
+</div>
+
+>>>
++ story passed through **oral** tradition, details lost
++ **Garo** tribe, Assam region, NE India (E of Bangladesh)
+  + formerly **head-hunters**
++ Welsh or English **missionaries**, at great personal cost
+  + first family in village to come to Christ
++ two sons + wife slain before him, then he was killed
++ put to music by **Singh**, travelling evangelist in India
+  + gospel of Christ, **culture** of India
+  + Yellow robe of the **sadhu** (ascetic holy man)
+
+---
 <!-- .slide: data-background="white" -->
-# Q3
+# Will I still **proclaim** God's kingdom, though none may **follow**?
+
+>>>
++ I have **decided** to follow Jesus
 
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="empty" -->
