@@ -1,6 +1,7 @@
 <!-- .slide: <%= bg("unsplash-mWMu5XSDe4I-beach_tower.jpg") %> id="title" -->
 # The Watchman
 ## Ezekiel 33 (5/5)
+[Seal Beach, US. Hamish Duncan](https://unsplash.com/photos/mWMu5XSDe4I "caption")
 
 >>>
 + ch2-3, 20
@@ -37,6 +38,7 @@
   + 6,8: does not warn
 
 ---
+<!-- .slide: <%= bg("USAF_taps-170515-F-IT851-172.jpg") %> -->
 If he sees the **sword** coming upon the land <br>
 and blows the **trumpet** and warns the people,
 
@@ -48,8 +50,10 @@ and the **sword** comes and takes him away, <br>
 his **blood** shall be upon his own head.
 
 [Ezekiel 33:3-4 (ESV)](# "ref")
+[Joint Base Langley-Eustis, VA. USAF / Areca T. Bell](https://www.acc.af.mil/News/Article-Display/Article/1184301/national-police-week-defenders-remember-fallen/ "caption")
 
 ---
+<!-- .slide: <%= bg("USAF_taps-170515-F-IT851-172.jpg") %> -->
 But if the watchman **sees** the sword coming <br>
 and does **not** blow the trumpet,<br>
 so that the people are **not warned**, <br>
@@ -63,6 +67,7 @@ at the watchman's hand.
 [Ezekiel 33:6 (ESV)](# "ref")
 
 ---
+<!-- .slide: <%= bg("unsplash-p0W9Q9gei4g-silhouette.jpg") %> -->
 So **you**, son of man, I have made <br>
 a **watchman** for the house of Israel.
 
@@ -70,6 +75,7 @@ Whenever you hear a **word** from my mouth, <br>
 you shall give them **warning** from me.
 
 [Ezekiel 33:7 (ESV)](# "ref")
+[Alex Jones](https://unsplash.com/photos/p0W9Q9gei4g "caption")
 
 >>>
 + (Heb 10 spur)
@@ -95,6 +101,7 @@ you shall give them **warning** from me.
 + **we** should, too
 
 ---
+<!-- .slide: <%= bg("unsplash-mKA3VavSuaI-dark_mtns.jpg") %> -->
 "Surely our **transgressions** <br>
 and our **sins** are upon us, <br>
 and we **rot away** because of them.
@@ -102,6 +109,7 @@ and we **rot away** because of them.
 **How** then can we live?"
 
 [Ezekiel 33:10 (ESV)](# "ref")
+[Silverthorne, CO. Nathan Anderson](https://unsplash.com/photos/mKA3VavSuaI "caption")
 
 >>>
 + first, for **ourselves**, then others:
@@ -111,6 +119,7 @@ and we **rot away** because of them.
   + ever since **birth**:
 
 ---
+<!-- .slide: <%= bg("unsplash-8CwoHpZe3qE-hands.jpg") %> -->
 And when I passed by you <br>
 and saw you **wallowing** in your blood,
 
@@ -118,17 +127,20 @@ I said to you in your blood, ‘**Live!**’<br>
 I said to you in your blood, ‘Live!’
 
 [Ezekiel 16:6 (ESV)](# "ref")
+[Geetanjal Khanna](https://unsplash.com/photos/8CwoHpZe3qE "caption")
 
 >>>
 + when we were **helpless**
 
 ---
+<!-- .slide: <%= bg("unsplash-8EFA86nI6yg-desert_cracks.jpg") %> -->
 These **bones** are the whole house of Israel. <br>
 Behold, they say, <br>
 ‘Our bones are **dried up**, and our **hope** is lost;<br>
 we are indeed **cut off**.’
 
 [Ezekiel 37:11 (ESV)](# "ref")
+[Brad Helmink](https://unsplash.com/photos/8EFA86nI6yg "caption")
 
 >>>
 + when we were **hopeless**
@@ -144,6 +156,7 @@ but that the wicked **turn** from his way and **live**;
 for why will you **die**, O house of Israel?
 
 [Ezekiel 33:11 (ESV)](# "ref")
+[Jens Lelie](https://unsplash.com/photos/u0vgcIOQG08 "caption")
 
 >>>
 + not a blanket **affirmation**
@@ -156,6 +169,7 @@ for why will you **die**, O house of Israel?
 + do **I**? (schaden-freude, joy in harm)
 
 ---
+<!-- .slide: <%= bg("unsplash-FrlCwXwbwkk-grass.jpg") %> -->
 If the **wicked** restores the pledge, <br>
 **gives back** what he has taken by robbery, <br>
 and walks in the **statutes** of life, <br>
@@ -167,6 +181,7 @@ he shall surely **live**; he shall not die.
 I will judge each of you according to his **ways**.
 
 [Ezekiel 33:15,20 (ESV)](# "ref")
+[Claudio Testa](https://unsplash.com/photos/FrlCwXwbwkk "caption")
 
 >>>
 + repent not just **words** / promises
@@ -177,7 +192,7 @@ I will judge each of you according to his **ways**.
 
 ---
 <!-- .slide: data-background="white" -->
-# Do I **want** to wicked to **repent**, or perish?
+# Do I **want** the wicked to **repent**, or perish?
 
 >>>
 + God has shown **grace** to us
@@ -191,11 +206,9 @@ I will judge each of you according to his **ways**.
 3. **A Prophet Among Them** [(v30-33)](# "ref")
 
 >>>
-+ 30 appear to listen
-+ 31 lustful desires + gain
-+ 33 they will know
 
 ---
+<!-- .slide: <%= bg("unsplash-1EbsMYrAu-s-bible_glasses.jpg") %> -->
 As for **you**, son of man, <br>
 your people ... say to one another, ...
 
@@ -207,20 +220,10 @@ And they **come** to you as people come, <br>
 and they **sit** before you as my people
 
 [Ezekiel 33:30-31 (ESV)](# "ref")
+[Aaron Burden](https://unsplash.com/photos/1EbsMYrAu-s "caption")
 
 ---
-Yet they **seek** me daily <br>
-and delight to **know** my ways,
-
-as if they were a nation that did **righteousness** <br>
-and did not **forsake** the judgment of their God;
-
-they **ask** of me righteous judgments; <br>
-they delight to **draw near** to God.
-
-[Isaiah 58:2 (ESV)](# "ref")
-
----
+<!-- .slide: <%= bg("unsplash-jfU3_67YiwQ-hands_concert.jpg") %> -->
 You are to them like one <br>
 who sings lustful **songs** with a beautiful voice <br>
 and plays well on an **instrument**,
@@ -229,19 +232,16 @@ for they **hear** what you say, <br>
 but they will **not do** it.
 
 [Ezekiel 33:32 (ESV)](# "ref")
+[Palm Springs, CA. Edwards Cisneros](https://unsplash.com/photos/jfU3_67YiwQ "caption")
 
 ---
-With lustful **talk** in their mouths they act; <br>
-their heart is set on their **gain**
-
-[Ezekiel 33:31 (ESV)](# "ref")
-
----
+<!-- .slide: <%= bg("unsplash-7cdFZmLlWOM-lighthouse.jpg") %> -->
 When this comes — and come it **will**! — <br>
 then they will know <br>
 that a **prophet** has been among them.
 
 [Ezekiel 33:33 (ESV)](# "ref")
+[Phare du Petit Minou, France. William Bout](https://unsplash.com/photos/7cdFZmLlWOM "caption")
 
 ---
 ## I Have Decided <br> to Follow Jesus
