@@ -244,7 +244,7 @@ that a **prophet** has been among them.
 [Phare du Petit Minou, France. William Bout](https://unsplash.com/photos/7cdFZmLlWOM "caption")
 
 ---
-## I Have Decided <br> to Follow Jesus
+### I Have **Decided** to Follow Jesus
 
 <div class="imgbox">
 <div>![map of Assam](https://sermons.seanho.com/img/fig/assam.png)
