@@ -413,6 +413,7 @@ a **prophet** has been among them
 </div>
 
 >>>
++ [(further research)](https://www.umcdiscipleship.org/articles/history-of-hymns-i-have-decided-to-follow-jesus)
 + story passed through **oral** tradition, details lost
 + put to music by **Singh**, travelling evangelist in India
   + gospel of Christ, **culture** of India
